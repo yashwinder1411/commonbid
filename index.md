@@ -1,6 +1,6 @@
 
 <html>
-  <body>
+  <body style="background:red;">
     <h1>
       Yashwinder Singh
     </h1>
