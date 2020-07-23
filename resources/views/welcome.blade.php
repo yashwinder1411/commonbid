@@ -17,14 +17,14 @@ https://templatemo.com/tm-516-known
      <meta name="author" content="">
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-     <link rel="stylesheet" href="{{asset('public/css/bootstrap.min.css')}}">
+     <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}">
 
-     <link rel="stylesheet" href="{{asset('public/css/font-awesome.min.css')}}">
-     <link rel="stylesheet" href="{{asset('public/css/owl.carousel.css')}}">
-     <link rel="stylesheet" href="{{asset('public/css/owl.theme.default.min.css')}}">
+     <link rel="stylesheet" href="{{asset('css/font-awesome.min.css')}}">
+     <link rel="stylesheet" href="{{asset('css/owl.carousel.css')}}">
+     <link rel="stylesheet" href="{{asset('css/owl.theme.default.min.css')}}">
 
      <!-- MAIN CSS -->
-     <link rel="stylesheet" href="{{asset('public/css/templatemo-style.css')}}">
+     <link rel="stylesheet" href="{{asset('css/templatemo-style.css')}}">
 
 </head>
 <body id="top" data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
@@ -222,7 +222,7 @@ https://templatemo.com/tm-516-known
                     <div class="col-md-3 col-sm-6">
                          <div class="team-thumb">
                               <div class="team-image">
-                                   <img src="public/images/author-image1.jpg" class="img-responsive" alt="">
+                                   <img src="images/author-image1.jpg" class="img-responsive" alt="">
                               </div>
                               <div class="team-info">
                                    <h3>Mark Wilson</h3>
@@ -239,7 +239,7 @@ https://templatemo.com/tm-516-known
                     <div class="col-md-3 col-sm-6">
                          <div class="team-thumb">
                               <div class="team-image">
-                                   <img src="public/images/author-image2.jpg" class="img-responsive" alt="">
+                                   <img src="images/author-image2.jpg" class="img-responsive" alt="">
                               </div>
                               <div class="team-info">
                                    <h3>Catherine</h3>
@@ -255,7 +255,7 @@ https://templatemo.com/tm-516-known
                     <div class="col-md-3 col-sm-6">
                          <div class="team-thumb">
                               <div class="team-image">
-                                   <img src="public/images/author-image3.jpg" class="img-responsive" alt="">
+                                   <img src="images/author-image3.jpg" class="img-responsive" alt="">
                               </div>
                               <div class="team-info">
                                    <h3>Jessie Ca</h3>
@@ -272,7 +272,7 @@ https://templatemo.com/tm-516-known
                     <div class="col-md-3 col-sm-6">
                          <div class="team-thumb">
                               <div class="team-image">
-                                   <img src="public/images/author-image4.jpg" class="img-responsive" alt="">
+                                   <img src="images/author-image4.jpg" class="img-responsive" alt="">
                               </div>
                               <div class="team-info">
                                    <h3>Andrew Berti</h3>
@@ -307,7 +307,7 @@ https://templatemo.com/tm-516-known
                                         <div class="courses-thumb">
                                              <div class="courses-top">
                                                   <div class="courses-image">
-                                                       <img src="public/images/courses-image1.jpg" class="img-responsive" alt="">
+                                                       <img src="images/courses-image1.jpg" class="img-responsive" alt="">
                                                   </div>
                                                   <div class="courses-date">
                                                        <span><i class="fa fa-calendar"></i> 12 / 7 / 2018</span>
@@ -322,7 +322,7 @@ https://templatemo.com/tm-516-known
 
                                              <div class="courses-info">
                                                   <div class="courses-author">
-                                                       <img src="public/images/author-image1.jpg" class="img-responsive" alt="">
+                                                       <img src="images/author-image1.jpg" class="img-responsive" alt="">
                                                        <span>Mark Wilson</span>
                                                   </div>
                                                   <div class="courses-price">
@@ -338,7 +338,7 @@ https://templatemo.com/tm-516-known
                                         <div class="courses-thumb">
                                              <div class="courses-top">
                                                   <div class="courses-image">
-                                                       <img src="public/images/courses-image2.jpg" class="img-responsive" alt="">
+                                                       <img src="images/courses-image2.jpg" class="img-responsive" alt="">
                                                   </div>
                                                   <div class="courses-date">
                                                        <span><i class="fa fa-calendar"></i> 20 / 7 / 2018</span>
@@ -353,7 +353,7 @@ https://templatemo.com/tm-516-known
 
                                              <div class="courses-info">
                                                   <div class="courses-author">
-                                                       <img src="public/images/author-image2.jpg" class="img-responsive" alt="">
+                                                       <img src="images/author-image2.jpg" class="img-responsive" alt="">
                                                        <span>Jessica</span>
                                                   </div>
                                                   <div class="courses-price">
@@ -369,7 +369,7 @@ https://templatemo.com/tm-516-known
                                         <div class="courses-thumb">
                                              <div class="courses-top">
                                                   <div class="courses-image">
-                                                      public/                                                       <img src="public/images/courses-image3.jpg" class="img-responsive" alt="">
+                                                                                                             <img src="images/courses-image3.jpg" class="img-responsive" alt="">
                                                   </div>
                                                   <div class="courses-date">
                                                        <span><i class="fa fa-calendar"></i> 15 / 8 / 2018</span>
@@ -384,7 +384,7 @@ https://templatemo.com/tm-516-known
 
                                              <div class="courses-info">
                                                   <div class="courses-author">
-                                                       <img src="public/images/author-image3.jpg" class="img-responsive" alt="">
+                                                       <img src="images/author-image3.jpg" class="img-responsive" alt="">
                                                        <span>Catherine</span>
                                                   </div>
                                                   <div class="courses-price free">
@@ -400,7 +400,7 @@ https://templatemo.com/tm-516-known
                                         <div class="courses-thumb">
                                              <div class="courses-top">
                                                   <div class="courses-image">
-                                                       <img src="public/images/courses-image4.jpg" class="img-responsive" alt="">
+                                                       <img src="images/courses-image4.jpg" class="img-responsive" alt="">
                                                   </div>
                                                   <div class="courses-date">
                                                        <span><i class="fa fa-calendar"></i> 10 / 8 / 2018</span>
@@ -415,7 +415,7 @@ https://templatemo.com/tm-516-known
 
                                              <div class="courses-info">
                                                   <div class="courses-author">
-                                                       <img src="public/images/author-image1.jpg" class="img-responsive" alt="">
+                                                       <img src="images/author-image1.jpg" class="img-responsive" alt="">
                                                        <span>Mark Wilson</span>
                                                   </div>
                                                   <div class="courses-price">
@@ -431,7 +431,7 @@ https://templatemo.com/tm-516-known
                                         <div class="courses-thumb">
                                              <div class="courses-top">
                                                   <div class="courses-image">
-                                                       <img src="public/images/courses-image5.jpg" class="img-responsive" alt="">
+                                                       <img src="images/courses-image5.jpg" class="img-responsive" alt="">
                                                   </div>
                                                   <div class="courses-date">
                                                        <span><i class="fa fa-calendar"></i> 5 / 10 / 2018</span>
@@ -446,7 +446,7 @@ https://templatemo.com/tm-516-known
 
                                              <div class="courses-info">
                                                   <div class="courses-author">
-                                                       <img src="public/images/author-image2.jpg" class="img-responsive" alt="">
+                                                       <img src="images/author-image2.jpg" class="img-responsive" alt="">
                                                        <span>Jessica</span>
                                                   </div>
                                                   <div class="courses-price free">
@@ -478,7 +478,7 @@ https://templatemo.com/tm-516-known
                               <div class="col-md-4 col-sm-4">
                                    <div class="item">
                                         <div class="tst-image">
-                                             <img src="public/images/tst-image1.jpg" class="img-responsive" alt="">
+                                             <img src="images/tst-image1.jpg" class="img-responsive" alt="">
                                         </div>
                                         <div class="tst-author">
                                              <h4>Jackson</h4>
@@ -498,7 +498,7 @@ https://templatemo.com/tm-516-known
                               <div class="col-md-4 col-sm-4">
                                    <div class="item">
                                         <div class="tst-image">
-                                             <img src="public/images/tst-image2.jpg" class="img-responsive" alt="">
+                                             <img src="images/tst-image2.jpg" class="img-responsive" alt="">
                                         </div>
                                         <div class="tst-author">
                                              <h4>Camila</h4>
@@ -516,7 +516,7 @@ https://templatemo.com/tm-516-known
                               <div class="col-md-4 col-sm-4">
                                    <div class="item">
                                         <div class="tst-image">
-                                             <img src="public/images/tst-image3.jpg" class="img-responsive" alt="">
+                                             <img src="images/tst-image3.jpg" class="img-responsive" alt="">
                                         </div>
                                         <div class="tst-author">
                                              <h4>Barbie</h4>
@@ -535,7 +535,7 @@ https://templatemo.com/tm-516-known
                               <div class="col-md-4 col-sm-4">
                                    <div class="item">
                                         <div class="tst-image">
-                                             <img src="public/images/tst-image4.jpg" class="img-responsive" alt="">
+                                             <img src="images/tst-image4.jpg" class="img-responsive" alt="">
                                         </div>
                                         <div class="tst-author">
                                              <h4>Andrio</h4>
@@ -586,7 +586,7 @@ https://templatemo.com/tm-516-known
 
                     <div class="col-md-6 col-sm-12">
                          <div class="contact-image">
-                              <img src="public/images/contact-image.jpg" class="img-responsive" alt="Smiling Two Girls">
+                              <img src="images/contact-image.jpg" class="img-responsive" alt="Smiling Two Girls">
                          </div>
                     </div>
 
@@ -668,11 +668,11 @@ https://templatemo.com/tm-516-known
 
 
      <!-- SCRIPTS -->
-     <script src="public/js/jquery.js"></script>
-     <script src="public/js/bootstrap.min.js"></script>
-     <script src="public/js/owl.carousel.min.js"></script>
-     <script src="public/js/smoothscroll.js"></script>
-     <script src="public/js/custom.js"></script>
+     <script src="{{asset('js/jquery.js')}}"></script>
+     <script src="{{asset('js/bootstrap.min.js')}}"></script>
+     <script src="{{asset('js/owl.carousel.min.js')}}"></script>
+     <script src="{{asset('js/smoothscroll.js')}}"></script>
+     <script src="{{asset('js/custom.js')}}"></script>
 
 </body>
 </html>
