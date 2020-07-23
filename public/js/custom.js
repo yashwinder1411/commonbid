@@ -96,7 +96,6 @@ function updateOptions()
     var x = document.getElementById("product_cat").value;
     for(var i = 0;i< idArray.length;i++)
     {
-        console.log();
         var selectedOption = document.getElementById(idArray[i]);
         selectedOption.style.display = 'none';
     }
@@ -119,9 +118,6 @@ function updateOptions()
 function placeBid()
 {
     var price = document.getElementById("price").value;
-    console.log("price =");
-    console.log(price);console.log("price =");
-
     if( price==null || price=="")
     {
         swal("Oops!", "Please enter a price.", "error");
